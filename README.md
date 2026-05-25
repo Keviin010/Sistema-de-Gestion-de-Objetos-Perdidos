@@ -12,5 +12,5 @@ Solucion de software orientada a resolver el reporte, almacenamiento y devolucio
 ## Stack Tecnologico
 
 * **Backend:** Java, Spring Boot, Spring Data JPA.
-* **Base de Datos:** MySQL (Diseño Entidad-Relacion optimizado para consistencia de datos)..
+* **Base de Datos:** MySQL (Diseño Entidad-Relacion optimizado para consistencia de datos).
 * **Arquitectura:** Separacion clara de conceptoss mediante controladores, servicios y repositorios.
