@@ -13,4 +13,4 @@ Solucion de software orientada a resolver el reporte, almacenamiento y devolucio
 
 * **Backend:** Java, Spring Boot, Spring Data JPA.
 * **Base de Datos:** MySQL (Diseño Entidad-Relacion optimizado para consistencia de daatos).
-* **Arquitectura:** Separacion clara de conceptoss mediante controladores, servicios y repositorios.
+* **Arquitecturaa:** Separacion clara de conceptoss mediante controladores, servicios y repositorios.
