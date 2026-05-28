@@ -3,7 +3,7 @@
 Solucion de software orientada a resolver el reporte, almacenamiento y devolucion eficiente de pertenencias dentro de un campus institucional. El sistema centraliza los reportes de objetos hallados, facilitando a los usuarios la busqueda y reclamo de sus pertenencias mediante una arquitecturaa escalable.
 
 ## Caracteristicas Principales
-
+u
 * **Registro y Clasificacion:** Categorizacion detallada de objetos con estados en tiempo real (Encontrado, En Custodia, Reclamado).
 * **Busqueda Avanzada:** Filtros por fecha, lugar de hallazgo y categoria para agilizar la localizacion.
 * **Modulo de Reclamacion:** Flujo logico para la validacion y entrega segura del objeto al dueño real.
