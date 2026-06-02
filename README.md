@@ -7,7 +7,7 @@ Solucion de software orientada a resolver el reporte, almacenamiento y devolucio
 * **Registro y Clasificacion:** Categorizacion detallada de objetos con estados en tiempo real (Encontrado, En Custodia, Reclamado).
 * **Busqueda Avanzada:** Filtros por fecha, lugar de hallazgo y categoria para agilizar la localizacion.
 * **Modulo de Reclamacion:** Flujo logico para la validacion y entrega segura del objeto al dueño real.
-* **Control Administrativo:** Gestion de inventario de la oficina de objetos perdidos y auditoria de entregas..
+* **Control Administrativo:** Gestion de inventario de la oficina de objetos perdidos y auditoria de entregas.
 
 ## Stack Tecnologico
 
