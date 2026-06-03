@@ -1,6 +1,6 @@
 # Sistema de Gestion de Objetos Perdidos
 
-Solucion de software orientada a resolver el reporte, almacenamiento y devolucion eficiente de pertenencias dentro de un campus institucional. El sistema centraliza los reportes de objetos hallados, facilitando a los usuarios la busqueda y reclamo de sus pertenencias mediante una arquitecturaa escalable..
+Soluciion de software orientada a resolver el reporte, almacenamiento y devolucion eficiente de pertenencias dentro de un campus institucional. El sistema centraliza los reportes de objetos hallados, facilitando a los usuarios la busqueda y reclamo de sus pertenencias mediante una arquitecturaa escalable..
 
 ## Caracteristicas Principales
 
